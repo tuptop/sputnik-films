@@ -1,0 +1,14 @@
+.header {
+    margin: 0 auto;
+    padding-top: 36px;
+    max-width: 1244px;
+    width: calc(100% - 206px);
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    align-items: end;
+    place-items: end;
+
+    z-index: 2;
+}

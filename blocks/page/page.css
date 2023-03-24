@@ -1,0 +1,15 @@
+.page {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    color: rgba(255, 255, 255, 0.6);
+    background: rgba(21, 21, 21, 1);
+    font-family: "JetBrainss", "Arial ", sans-serif;
+    font-style: normal;
+    box-sizing: border-box;
+    font-family: 'JetBrains';
+    width: 100%;
+}
